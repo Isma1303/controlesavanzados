@@ -1,0 +1,11 @@
+C:\Users\Alejandro\source\repos\claseSabado7\claseSabado7\bin\Debug\claseSabado7.exe.config
+C:\Users\Alejandro\source\repos\claseSabado7\claseSabado7\bin\Debug\claseSabado7.exe
+C:\Users\Alejandro\source\repos\claseSabado7\claseSabado7\bin\Debug\claseSabado7.pdb
+C:\Users\Alejandro\source\repos\claseSabado7\claseSabado7\obj\Debug\claseSabado7.csproj.AssemblyReference.cache
+C:\Users\Alejandro\source\repos\claseSabado7\claseSabado7\obj\Debug\claseSabado7.Archivo.resources
+C:\Users\Alejandro\source\repos\claseSabado7\claseSabado7\obj\Debug\claseSabado7.Form1.resources
+C:\Users\Alejandro\source\repos\claseSabado7\claseSabado7\obj\Debug\claseSabado7.Properties.Resources.resources
+C:\Users\Alejandro\source\repos\claseSabado7\claseSabado7\obj\Debug\claseSabado7.csproj.GenerateResource.cache
+C:\Users\Alejandro\source\repos\claseSabado7\claseSabado7\obj\Debug\claseSabado7.csproj.CoreCompileInputs.cache
+C:\Users\Alejandro\source\repos\claseSabado7\claseSabado7\obj\Debug\claseSabado7.exe
+C:\Users\Alejandro\source\repos\claseSabado7\claseSabado7\obj\Debug\claseSabado7.pdb
